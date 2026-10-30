@@ -1,133 +1,48 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=165&section=header&text=LAKSHITH%20REDDY&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20SYSTEMS%20%C2%B7%20DEVELOPER%20TOOLS%20%C2%B7%20SECURITY&descSize=13&descAlignY=60" width="100%" alt="Lakshith Reddy — AI systems, developer tools and security" />
+  <p><strong>Think disruptive. Build relentlessly.</strong></p>
+  <p>
+    <a href="https://github.com/MokuLakshithReddy"><img src="https://img.shields.io/badge/GitHub-Profile-161b22?style=flat-square&logo=github" alt="GitHub profile" /></a>
+    <a href="https://lakshith-s-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-161b22?style=flat-square&logo=vercel" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/mokulakshithreddy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector"><img src="https://img.shields.io/badge/Open%20VSX-Secret%20Leak%20Detector-161b22?style=flat-square&logo=visualstudiocode" alt="Secret Leak Detector on Open VSX" /></a>
+    <a href="mailto:mokulakshithreddy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>About me
+I'm a B.Tech Artificial Intelligence & Machine Learning student at Malla Reddy Vishwavidyapeeth, Hyderabad. I build AI applications and developer tools with a particular interest in systems that can execute work safely, detect problems early, and verify results with evidence.
+- AI engineering: agents, tool execution, reasoning workflows, and verification loops.
+- Developer security: credential detection, static analysis, and privacy-focused tooling.
+- Product development: full-stack applications that solve practical workflow problems.
+- Leadership: Managing Director at Fly Axis Overseas.
+Featured projects
+Project	What it does	Proof & links
+Secret Leak Detector	A VS Code extension and CLI for detecting potential credential leaks, with multiple detection signals and Git-hook protection.	Open VSX · CI · Benchmark methodology
+Local AI Execution Agent	A local-first, model-agnostic agent framework focused on bounded tool execution, approvals, and independent verification of task outcomes.	Evidence report · CI
+Autonomous AI Coding Orchestrator	A closed-loop coding system that coordinates planning, code changes, verification, and repair when checks fail.	Repository · CI
+ThinkMate	A structured AI thinking partner that guides users through understanding a problem, exploring alternatives, challenging assumptions, deciding, and acting.	Architecture and implementation
+PrivacyLens	A local research prototype that compares privacy-policy claims with observed browser network metadata. Its findings are heuristic signals, not definitive safety or legal-compliance verdicts.	Repository · Readiness and limitations
+CampusConnect	A college community platform for club workspaces, announcements, events, and student collaboration.	Repository · Releases / Android build
+PiggyBack	A logistics optimization project exploring shipment recovery and how stranded freight can use available transport capacity and alternative routes.	Repository and testing notes
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:1f6feb&height=260&section=header&text=LAKSHITH%20REDDY&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Agentic%20AI%20%C2%B7%20Developer%20Security%20Tooling%20%C2%B7%20Founder%20in%20the%20making&descSize=16&descAlignY=60&descColor=8b949e" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=Building+compiler-backed+security+tooling;Designing+closed-loop+agentic+systems;Shipping+verifiable+full-stack+platforms;Competing+in+hackathons.+Learning+in+public." alt="Typing SVG" />
-
-<br/>
-
-<a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector"><img src="https://img.shields.io/open-vsx/dt/MokuLakshithReddy/secret-leak-detector?style=for-the-badge&label=Open%20VSX%20Downloads&color=1f6feb&labelColor=000000&logo=visualstudiocode&logoColor=ffffff" alt="Open VSX Downloads"/></a>
-<img src="https://img.shields.io/github/followers/MokuLakshithReddy?style=for-the-badge&labelColor=000000&color=1f6feb&logo=github" alt="Followers"/>
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMokuLakshithReddy&label=PROFILE+VIEWS&labelColor=%23000000&countColor=%231f6feb&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
----
-
-## 👤 About
-
-```text
-> whoami
-Lakshith Reddy: B.Tech AI & ML @ Malla Reddy Vishwavidyapeeth, Hyderabad
-
-> currently
-Building toward an EdTech startup · Associated with FlyAxis Overseas
-
-> focus
-Agentic AI · Developer security tooling · Full-stack platforms
-
-> open_to
-Internships · Research · Hackathon teams
-```
-
----
-
-## 🛠️ Tech Arsenal
-
+Open-source contributions
+A few upstream contributions I'm proud to have worked on:
+- Merged — Apache Fineract #149: Added correlation ID support across frontend and backend.
+- Merged — Photocraft #1141: Added nearest-neighbor sampling for image reductions.
+- Merged — XERJ #1804: Fixed parsing for standalone and infix query operators.
+- Merged — Libreswan documentation #7: Added generated page titles to the default layout.
+- Open when last checked — MCP TypeScript SDK #3003: Proposed support for RFC 6570 URI-template prefix modifiers.
+Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,nextjs,react,nodejs,fastapi,tailwind,supabase,postgres,vercel,githubactions,vscode,git&perline=8" alt="Tech stack"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/MokuLakshithReddy/Secret_Leak_Detector">Secret Leak Detector</a></h3>
-      Credential scanner published on <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector">Open VSX</a>: 14+ cloud/AI detectors, TypeScript-compiler AST parsing, Shannon entropy, SARIF v2.1.0 output, CI regression gating.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript"/> <img src="https://img.shields.io/badge/VS_Code_API-000?style=flat-square&logo=visualstudiocode"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/MokuLakshithReddy/thinkmate">ThinkMate</a> · <a href="https://thinkmate-nu.vercel.app">live</a></h3>
-      Guided-thinking AI with a 5-mode workflow (Understand → Explore → Challenge → Decide → Act), server-side state machine, SSE streaming, RLS rollback tests.<br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase"/> <img src="https://img.shields.io/badge/Gemini_2.5-000?style=flat-square&logo=googlegemini"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔁 <a href="https://github.com/MokuLakshithReddy/autonomous-ai-coding-orchestrator">AI Coding Orchestrator</a></h3>
-      Closed-loop planning, execution, independent verification and self-repair for coding tasks.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript"/> <img src="https://img.shields.io/badge/Agentic_AI-000?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/MokuLakshithReddy/local-ai-execution-agent">Local AI Execution Agent</a></h3>
-      Local-first, model-agnostic agent with bounded execution, tool registry, human approvals and verifiable evidence.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/Human_in_the_loop-000?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/MokuLakshithReddy/PrivacyLens">PrivacyLens</a></h3>
-      Cross-checks a site's declared privacy policy against real browser network telemetry.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚚 <a href="https://github.com/MokuLakshithReddy/PiggyBack">PiggyBack</a> · <a href="https://smart-intelligent-transport.vercel.app">live</a></h3>
-      Freight capacity optimization and shipment recovery engine with property tests and GIS route simulation.<br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Leaflet-000?style=flat-square&logo=leaflet"/>
-    </td>
-  </tr>
-</table>
-
-<sub>Also: <a href="https://github.com/MokuLakshithReddy/campus-connect">CampusConnect</a> · <a href="https://github.com/MokuLakshithReddy/bluecarbon-registry">BlueCarbon Registry</a> · <a href="https://github.com/MokuLakshithReddy/intelligrid-control">IntelliGrid</a> · <a href="https://github.com/MokuLakshithReddy/AstraLab">AstraLab</a></sub>
-
----
-
-## 🌐 Open Source Contributions
-
-| Project | Contribution | Status |
-|:---|:---|:---:|
-| [apache/fineract-consumer-facing](https://github.com/apache/fineract-consumer-facing) | correlationID support across frontend and backend ([#149](https://github.com/apache/fineract-consumer-facing/pull/149)) | ✅ Merged |
-| [libreswan/libreswan.github.io](https://github.com/libreswan/libreswan.github.io) | Auto-generated page title ([#7](https://github.com/libreswan/libreswan.github.io/pull/7)) | ✅ Merged |
-| [storytold/photocraft](https://github.com/storytold/photocraft) | Nearest-neighbor reduction sampling in Rust ([#1141](https://github.com/storytold/photocraft/pull/1141)) | ✅ Merged |
-| [xerj-org/xerj](https://github.com/xerj-org/xerj) | Standalone/infix operator parser ([#1804](https://github.com/xerj-org/xerj/pull/1804)) | ✅ Merged |
-| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | RFC 6570 prefix modifiers in UriTemplate ([#3003](https://github.com/modelcontextprotocol/typescript-sdk/pull/3003)) | 🔄 Open |
-
----
-
-## 📊 GitHub Stats
-
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</div>My current engineering interests are AI agents, secure tool execution, software verification, developer experience, and building products around real user problems.
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MokuLakshithReddy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true" width="48%" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokuLakshithReddy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="48%" alt="Top languages"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=MokuLakshithReddy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MokuLakshithReddy&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&hide_border=true" width="97%" alt="Contribution graph"/>
+  <sub>Focused on practical engineering, clear evidence, and continuous improvement.</sub>
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MokuLakshithReddy/MokuLakshithReddy/output/github-snake-dark.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/MokuLakshithReddy/MokuLakshithReddy/output/github-snake.svg" width="100%"/>
-  </picture>
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-  <a href="https://lakshith-s-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mokulakshithreddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Lakshith_54"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:mokulakshithreddy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:000000&height=100&section=footer" width="100%"/>
